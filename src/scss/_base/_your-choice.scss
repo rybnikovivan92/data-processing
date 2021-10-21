@@ -1,0 +1,12 @@
+.wrapper-your-choice {
+  background-color: $background;
+}
+
+.your-choice {
+  height: 1000px;
+  background-size: cover;
+  background-image: url("./src/images/your-choice-background.png");
+  img {
+    opacity: 0.3;
+  }
+}
